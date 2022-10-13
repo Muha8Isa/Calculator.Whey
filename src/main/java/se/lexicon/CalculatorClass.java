@@ -1,11 +1,11 @@
 package se.lexicon;
-
+// Here, I created this class to display the menu and create the calculations.
 public class CalculatorClass {
     public static double addition(double number1, double number2) {
         return number1 + number2;
     }
 
-    public static double substraction(double number1, double number2) {
+    public static double subtraction(double number1, double number2) {
         return number1 - number2;
     }
 
