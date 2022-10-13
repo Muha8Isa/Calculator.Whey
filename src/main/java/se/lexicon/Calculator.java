@@ -2,6 +2,7 @@ package se.lexicon;
 
 import java.util.Scanner;
 
+// This is the main calculator app to run!
 public class Calculator {
     public static void main(String[] args) {
         calc.main();
