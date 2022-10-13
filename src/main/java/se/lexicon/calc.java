@@ -33,7 +33,7 @@ public class calc {
                     System.out.println("The sum is = " + addition(x, y));
                     break;
                 case '-':
-                    System.out.println("The difference is = " + substraction(x, y));
+                    System.out.println("The difference is = " + subtraction(x, y));
                     break;
                 default:
                     System.out.println("\n Please select a valid operation character");
