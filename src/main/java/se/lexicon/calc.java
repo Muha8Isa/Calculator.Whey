@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import static se.lexicon.CalculatorClass.*;
 
+// Here I defined the operation method.
 public class calc {
     public static void main() {
         Scanner whey = new Scanner(System.in);
